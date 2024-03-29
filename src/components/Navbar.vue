@@ -3,12 +3,12 @@ const navigation = [
   {
     name: "Projects",
     link: "#projects",
-    icon: "/src/assets/code.png",
+    icon: "/code.png",
   },
   {
     name: "Contact",
     link: "mailto:bilawalmehfooz@outlook.com",
-    icon: "/src/assets/envelope.png",
+    icon: "/envelope.png",
     cta: true,
   },
 ];
