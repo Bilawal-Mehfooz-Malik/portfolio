@@ -1,8 +1,8 @@
 <script setup>
 const description =
-  "Hey everyone, Bilawal here! I'm a mobile app developer working mainly with Dart and Firebase. You can find my projects on any of the links below.";
+  "Hey everyone, Bilawal here! I'm an app developer working mainly with Dart, Flutter and Firebase. You can find my projects on any of the links below.";
 const socialLinks = {
-  github: "https://github.com",
+  github: "https://github.com/Bilawal-Mehfooz-Malik",
   twitter: "https://twitter.com",
 };
 </script>
@@ -12,7 +12,7 @@ const socialLinks = {
       <h1
         class="text-3xl lg:text-4xl lg:leading-relaxed font-semibold leading-snug text-gray-900"
       >
-        Mobile app developer with a love for
+        App developer with a love for
         <span class="highlight dart">Dart</span>,
         <span class="highlight flutter">Flutter</span>, and
         <span class="highlight firebase">Firebase</span>

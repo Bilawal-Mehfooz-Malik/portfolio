@@ -17,7 +17,7 @@ let name = "Bilawal Mehfooz";
         <p class="font-semibold">Get in touch</p>
         <p class="text-slate-700">
           <a
-            href="https://github.com/aschmelyun"
+            href="mailto:bilawalmehfoozflutter@gmail.com"
             target="_blank"
             rel="noopener"
             class="hover:underline text-slate-700 hover:text-gray-900"
@@ -25,19 +25,11 @@ let name = "Bilawal Mehfooz";
           >
           <span class="text-slate-300">&nbsp;—&nbsp;</span>
           <a
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/bilawal-mehfooz/"
             target="_blank"
             rel="noopener"
             class="hover:underline text-slate-700 hover:text-gray-900"
             >LinkedIn</a
-          >
-          <span class="text-slate-300">&nbsp;—&nbsp;</span>
-          <a
-            href="https://twitter.com/"
-            target="_blank"
-            rel="noopener"
-            class="hover:underline text-slate-700 hover:text-gray-900"
-            >Twitter</a
           >
         </p>
       </div>

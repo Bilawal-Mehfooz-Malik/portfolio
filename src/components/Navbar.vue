@@ -7,7 +7,7 @@ const navigation = [
   },
   {
     name: "Contact",
-    link: "mailto:bilawalmehfooz@outlook.com",
+    link: "mailto:bilawalmehfoozflutter@gmail.com",
     icon: "/envelope.png",
     cta: true,
   },

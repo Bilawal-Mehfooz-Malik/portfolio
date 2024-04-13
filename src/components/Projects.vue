@@ -1,40 +1,19 @@
 <script setup>
 const projects = [
   {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
+    name: "Food Delivery UI",
+    img: "/food_app.png",
+    link: "https://github.com/Bilawal-Mehfooz-Malik/simple_food_app",
   },
   {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
+    name: "Virtual Card",
+    img: "/virtual_card.png",
+    link: "https://github.com/Bilawal-Mehfooz-Malik/v_card",
   },
   {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
-  },
-  {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
-  },
-  {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
-  },
-  {
-    name: "Project Name",
-    img: "/cover-image.webp",
-    link: "https://example.com",
-    downloadLink: "https://example.com",
+    name: "Chat App",
+    img: "/chat_app.png",
+    link: "https://github.com/Bilawal-Mehfooz-Malik/chat_app",
   },
 ];
 </script>
@@ -60,10 +39,10 @@ const projects = [
               </div>
             </div>
           </a>
-          <header class="px-4 py-2 border-b border-gray-800">
+          <header class="px-4 py-2 border-gray-800">
             <h3 class="text-xl">{{ project.name }}</h3>
           </header>
-          <footer class="flex">
+          <!-- <footer class="flex">
             <div class="flex-1 border-r border-gray-800"></div>
             <div class="p-2 w-14">
               <a :href="project.downloadLink">
@@ -74,7 +53,7 @@ const projects = [
                 />
               </a>
             </div>
-          </footer>
+          </footer> -->
         </article>
       </div>
     </div>
